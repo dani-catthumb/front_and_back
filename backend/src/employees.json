@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "jobTitle": "Software Engineer",
+        "phoneNumber": "(123) 456-7890",
+        "emailAddress": "john@example.com",
+        "address": "123 Main St",
+        "department": "IT"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "jobTitle": "Data Scientist",
+        "phoneNumber": "(987) 654-3210",
+        "emailAddress": "jane@example.com",
+        "address": "456 Elm St",
+        "department": "Analytics"
+    },
+    {
+        "id": 3,
+        "name": "Mike Johnson",
+        "jobTitle": "Product Manager",
+        "phoneNumber": "(555) 123-4567",
+        "emailAddress": "mike@example.com",
+        "address": "789 Oak St",
+        "department": "Product"
+    },
+    {
+        "id": 4,
+        "name": "Emily Brown",
+        "jobTitle": "UX Designer",
+        "phoneNumber": "(111) 222-3333",
+        "emailAddress": "emily@example.com",
+        "address": "321 Pine St",
+        "department": "Design"
+    },
+    {
+        "id": 5,
+        "name": "David Lee",
+        "jobTitle": "DevOps Engineer",
+        "phoneNumber": "(444) 555-6666",
+        "emailAddress": "david@example.com",
+        "address": "654 Cedar St",
+        "department": "Infrastructure"
+    },
+    {
+        "id": 6,
+        "name": "Sarah Taylor",
+        "jobTitle": "Marketing Manager",
+        "phoneNumber": "(777) 888-9999",
+        "emailAddress": "sarah@example.com",
+        "address": "987 Maple St",
+        "department": "Marketing"
+    },
+    {
+        "id": 7,
+        "name": "Kevin White",
+        "jobTitle": "Sales Representative",
+        "phoneNumber": "(999) 000-1111",
+        "emailAddress": "kevin@example.com",
+        "address": "135 Birch Rd",
+        "department": "Sales"
+    },
+    {
+        "id": 8,
+        "name": "Lisa Nguyen",
+        "jobTitle": "HR Generalist",
+        "phoneNumber": "(222) 333-4444",
+        "emailAddress": "lisa@example.com",
+        "address": "246 Walnut Ave",
+        "department": "Human Resources"
+    },
+    {
+        "id": 9,
+        "name": "Brian Kim",
+        "jobTitle": "Finance Analyst",
+        "phoneNumber": "(444) 555-6666",
+        "emailAddress": "brian@example.com",
+        "address": "369 Spruce Ln",
+        "department": "Finance"
+    },
+    {
+        "id": 10,
+        "name": "Amy Chen",
+        "jobTitle": "Customer Support Specialist",
+        "phoneNumber": "(666) 777-8888",
+        "emailAddress": "amy@example.com",
+        "address": "492 Fir St",
+        "department": "Customer Service"
+    },
+    {
+        "id": 11,
+        "name": "Chris Martin",
+        "jobTitle": "Operations Manager",
+        "phoneNumber": "(888) 999-0000",
+        "emailAddress": "chris@example.com",
+        "address": "615 Pine Ave",
+        "department": "Operations"
+    },
+    {
+        "id": 12,
+        "name": "Diana Patel",
+        "jobTitle": "Recruiter",
+        "phoneNumber": "(111) 222-3333",
+        "emailAddress": "diana@example.com",
+        "address": "789 Oak St",
+        "department": "HR"
+    },
+    {
+        "id": 13,
+        "name": "Tom Harris",
+        "jobTitle": "IT Support Specialist",
+        "phoneNumber": "(444) 555-6666",
+        "emailAddress": "tom@example.com",
+        "address": "246 Maple Rd",
+        "department": "IT"
+    },
+    {
+        "id": 14,
+        "name": "Rita Singh",
+        "jobTitle": "Project Coordinator",
+        "phoneNumber": "(666) 777-8888",
+        "emailAddress": "rita@example.com",
+        "address": "369 Cedar Ln",
+        "department": "Project Management"
+    },
+    {
+        "id": 15,
+        "name": "Michael Davis",
+        "jobTitle": "Business Analyst",
+        "phoneNumber": "(888) 999-0000",
+        "emailAddress": "michael@example.com",
+        "address": "492 Elm Ave",
+        "department": "Strategy"
+    },
+    {
+        "id": 16,
+        "name": "Sarah Lee",
+        "jobTitle": "Content Writer",
+        "phoneNumber": "(123) 456-7890",
+        "emailAddress": "sarah@example.com",
+        "address": "135 Spruce St",
+        "department": "Marketing"
+    },
+    {
+        "id": 17,
+        "name": "Emily Chen",
+        "jobTitle": "UX Researcher",
+        "phoneNumber": "(987) 654-3210",
+        "emailAddress": "emily@example.com",
+        "address": "246 Walnut Ave",
+        "department": "Design"
+    },
+    {
+        "id": 18,
+        "name": "David Kim",
+        "jobTitle": "Data Visualization Specialist",
+        "phoneNumber": "(555) 123-4567",
+        "emailAddress": "david@example.com",
+        "address": "369 Pine Rd",
+        "department": "Analytics"
+    },
+    {
+        "id": 19,
+        "name": "Lisa Nguyen",
+        "jobTitle": "Digital Marketing Specialist",
+        "phoneNumber": "(777) 888-9999",
+        "emailAddress": "lisa@example.com",
+        "address": "492 Elm Ave",
+        "department": "Marketing"
+    },
+    {
+        "id": 20,
+        "name": "Brian White",
+        "jobTitle": "Cybersecurity Engineer",
+        "phoneNumber": "(999) 000-1111",
+        "emailAddress": "brian@example.com",
+        "address": "135 Maple St",
+        "department": "Infrastructure"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "jobTitle": "Software Engineer",
+        "phoneNumber": "(123) 456-7890",
+        "emailAddress": "john@example.com",
+        "address": "123 Main St",
+        "department": "IT"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "jobTitle": "Data Scientist",
+        "phoneNumber": "(987) 654-3210",
+        "emailAddress": "jane@example.com",
+        "address": "456 Elm St",
+        "department": "Analytics"
+    }
+]
