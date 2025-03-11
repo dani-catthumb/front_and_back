@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import EmployeeList from './EmployeeList';
 import SpecificEmployeeData from './SpecificEmployeeData';
+import config from './config.json'
 
-const BackendURL = "http://192.168.0.112:5000";
+const BackendURL = config.BACKEND_URL;
 
 
 function App() {

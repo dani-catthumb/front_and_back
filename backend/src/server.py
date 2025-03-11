@@ -57,4 +57,4 @@ if __name__ == "__main__":
         view_func=employee_api.get_employee_by_id,
         methods=["GET"],
     )
-    app.run(host="0.0.0.0")
+    app.run(host="0.0.0.0", port=5000)
