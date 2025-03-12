@@ -44,7 +44,7 @@ function SpecificEmployeeData({ employeeID, BackendURL }) {
                 </thead>
                 <tbody>
                     <tr>
-                        <td>{data.id}</td>
+                        <td specificemployeeid={data.id}>{data.id}</td>
                         <td>{data.name}</td>
                         <td>{data.jobTitle}</td>
                         <td>{data.phoneNumber}</td>
